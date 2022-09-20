@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xocetco 
 - 👀 I’m interested in new things like programming
-- 🌱 I’m currently learning basics like HTML, CSS
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning basics like Python, Django
+- 💞️ I’m looking to collaborate on basic backend
 - 📫 How to reach me ...
 
 <!---
